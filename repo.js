@@ -8,5 +8,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/RogyWantsCoffee/"
 	],
-	"title": "Patches made by a girl addicted to Coffee."
+	"title": "July's Repo"
 }
