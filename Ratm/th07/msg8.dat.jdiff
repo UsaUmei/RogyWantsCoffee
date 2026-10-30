@@ -1,0 +1,972 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Look who came back at the end!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I was waiting to get an Overlord today."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "And today is the day! Say goodbye to your sweet life!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Blah blah blah",
+                "You talk too much."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Hey, Grim Reaper guy."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It's time for you to show up."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Ohhhhhh? Now?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I liked to just observe over here."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Wait, You're the grim reaper?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "The kitsune from the other side of life",
+                "Okari Tomorrow"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Correct!"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I'm the one who awaits or everyone's day of doom."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "People says I like to eat souls, But actually I eat jelly beans."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "I didn't even knew you would need to eat at all."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I dont't have to, I just like jelly beans too much."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "You could even offer me one in exchange of someone's else life."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Can you kill this girl named \"Kuri\" If I offer some?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I do my work after payment. I don't know you, after all."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'm Overlord Alinsky! Overlord of Chaos!",
+                "Overlord of Halloween Country."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Overlord Alinsky? Halloween country overlord?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Nyx told me about you."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Wait, What the hell did that cat tell you about me??"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "That you're a jerk and you like destroying everything!"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Dammit! Of course!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That idiot wanted to his own stupid blood moon!",
+                "And tried to gather as many yokais in this mansion."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "So, That's why he invited you!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Ohhhhhhh~ Yeah he did."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "You're working for him right?",
+                "That means I gotta beat your ass."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Huh...."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I was feeling too lazy to actually do my part of the job.",
+                "You know?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Maybe I'll do it later when I'm not feeling that lazy.",
+                "Or maybe not at all."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Doing now or later..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Both escenarios requires me to beat your ass."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "And you being the grim reaper doesn't scare me at all!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh well!"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Since you want to fight so bad. I can test myself a little."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Is that more than enough for your test?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Auh! Yes it was."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Good! So you won't be working for that Nyx guy anymore!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I have no problem coming back in here to kick your ass."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Fine fine! I won't do it."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "You better don't."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Either way, I can finally stay in here and sleep."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I was so tired of thinking about getting spirits for this mansion~"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "How many spirits you needed even?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Like 400 spirits per day."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "It's so tiring!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "400 spirits... Huh"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I gotta start taking notes!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Huh, Why would you want spirits?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You're already a very powerful overlord."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Gaining and saving spirits makes you stronger, right?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "That's what that stupid black cat said."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "They don't. That only works on movies...I guess."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Anyways. I'm too tired. I'm going to sleep again."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "It's there a place I could rest my lazy ass in?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Um...I think I have a very good idea.",
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Maybe getting the grim reaper to work for me...",
+                "That sounds like the best idea."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Uh, but you can't tell me what to do."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "You're now in halloween and I'm the overlord. So yes I can!"
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Look who came back at the end!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I was waiting to get an Overlord today."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "And today is the day! Say goodbye to your sweet life!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "It took me less than 10 minutes to kick your ass",
+                "The last time you said that."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Hmmm..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The atmophere here feels wrong...pretty wrong and unhinged."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Oh come on! It's a good atmosphere."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Maybe you humans should get used to it more."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Oh, I'm a semi overlord, Not a human."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "But I do think I need an upgrade to become an overlord."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I think you already got too many upgrades."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "But enough upgrades like me? Do you think you got them?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "All your upgrades went straight to your butt.",
+                "And I'm looking for the grim reaper, not a fox."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "That's me."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Wait a second...You're the grim reaper?"
+            ]
+        },
+        "111_h1_0": {
+            "lines": [
+                "Mastermind Behind the Spiriting Away",
+                "Okari Tomorrow"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Hehehehehehehehehehehehehe"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'll take that as a yes."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Some Nyx invited me in here. Do you know him??"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Ehhhh...yeah Nyx, I know him."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Fantastic!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "He gave me a couple of tasks... But I'm feeling so lazy tonight."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "I must imagine how stupid those tasks must have been."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I haven't done any of them yet...",
+                "but There's one that was important."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "What? And what's it?",
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "To get an overlord spirit! by killing them."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                 "But don't mind that...I won't actually do it."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Wait what? And that?"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I'm feeling so lazy tonight...",
+                "I miss laying my ass on the couch all day."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "If I was able to kill anyone like nothing I won't be that lazy."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                 "You're right. It's fun the first few times."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                 "I wonder...The spells that dumbass taught will work for this job?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "You're seem new in halloween country.",
+                "Why don't you see it by yourself."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                 "Okay! Then enjoy my totally original spell cards.",
+                 "done in a lazy way!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "That was long...you're probably more tired for today"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ow! Yes I am tired!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I can tell it's your first time fighting with spell cards."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "It is! Spell cards are new in the netherworld."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "So, you're from the netherworld."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Correct."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "That's why you're so lazy.",
+                "The undead barely have any energies."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Yes But I'm not dead! I think so."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "I'm just some lazy ass That's it."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Are you really THAT lazy?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Probably having necromantic powers like you",
+                "Would motivate me more to work."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "You think so?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Well, they're fun to use. Can't judge you."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Those pumpkins you have as your shooting options..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "They have soul energy, I know it!"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Don't even think in asking me for them."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "For free....They cost 10$ each!"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I don't have any money right now."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "But you're the grim reaper!",
+                "How you're not gonna have money?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "What does that has to do with me having money?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "I need to work too! You know?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Oh yeah, You're pretty lazy."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "My last job was ok.",
+                "I was working at customer support for scaring people."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Hmmmmmm...."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Maybe if I find something similar to necromancy...",
+                "I'll totally be happy to do it."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Well There's one In the capital of halloween kingdom.",
+                "They pay kinda well."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "It requires to bring back unattended souls to The netherworld.",
+                "Could be easy for ya!"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "That sounds like a lot of work."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "And spirits tend to be very naughty around me!"
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Ahem...Ahem!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Maybe because you keep moving that fatass around all the time!"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Heheheheheh"
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Oh so you actually came back!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I was waiting to get an Overlord today."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "But since you're not working for me...",
+                "I can get your soul instead."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "You can't even get souls dude, quit that already."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "This place looks pretty unhinged now."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The grim reaper will show up soon.",
+                "maybe that's why."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Oh another cat!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Are you one of Nyx's servants?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "\"Nyx's servant?\" Do you think I would work for that idiot?",
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nyx brought lots of cats in this place."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "He was saying that they're the owners of this mansion!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "They're not.",
+                "This haunted mansion has been abandoned for looong time."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Huh!? Really?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Yeah, duh. This place is very haunted.",
+                "Who the hell is gonna live in here like nothing?"
+            ]
+        },
+        "110_h1_0": {
+            "lines": [
+                "Beautiful beast from the Underworld.",
+                "Okari Tomorrow"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Pretty strange people would! I like how it feels like in here."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Oh yeah, you're one of those strange people."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Huuuuuuuuuuuh???"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Nyx brought you here for something. Right?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Oh yeah he did I think...",
+                "I just wanted to mess up some things in here."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You don't remember the reason of your summoning?",
+                "Are you that dumb?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "I do remember now!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Yeah? So what it is?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Nyx wanted to be an overlord, or something like that."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "He gave me a couple of tasks but...I'm too lazy to do them."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Are you sure you're actually the grim reaper himself?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "You're too dumb to be him.",
+                "Either that or all that intelligence is on your ass."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "If I want to...I could end you here and now."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I can just do it if I want to. As easy as that!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "So, a very supernatural power on someone this dumb.",
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I get it now...I get it now. You clearly don't deserve it."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Heheheheheh...Ok Ok!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "I guess it's time!",
+                "to test myself a little with the spells Nyx taught me."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "I wonder...Are they good enough to make you run away?"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "I was not running away from a dumbass",
+                "who calls himself the grim reaper."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ow! But why so rude..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sorry, it's a me thing!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "But I do wonder how you're still the grim reaper."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Well, some things are just like that."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I think I'm not a very good person after all~",
+                "I'm too lazy."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yeah yeah yeah, I can really tell."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "It worries me a lot that the fate of life is in YOUR hands."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Heheheheheh."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Still pretty fun to mess around with it!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So...You just go around killing people?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Or you just let someone else do it for you?",
+                "Because if that's the case, I wouldn't be surprised."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "A lot of people die by natural ways.",
+                "So I can just lay around and be a lazy ass."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "yeah, that's also an option."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "And watching videos on internet before sleeping...",
+                "While hugging my big fox plush."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Truly the best hobby."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Anyways, Good night."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Aaaaaand...you're gonna sleep in this place?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Yeah! It's sleepable.",
+                "I love this grim athmosphere. Reminds me of home."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "...Everyone in this mansion is truly a weirdo."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Oh? You think it's weird?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'll just head home. With my normal bed and room."
+            ]
+        }
+    }
+}
