@@ -7,7 +7,7 @@
   ],
   "id": "Ratm",
   "servers": [
-    "https://mirrors.thpatch.net/RogyWantsCoffee/RatM/"
+    "https://mirrors.thpatch.net/RogyWantsCoffee/Ratm/"
   ],
   "title": "(TH07) Ruby And the Monsters - Gothic Kingdom Legacy",
   "update": true
