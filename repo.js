@@ -6,6 +6,7 @@
         "https://mirrors.thpatch.net/RogyWantsCoffee/"
     ],
     "patches": {
-        "Fumo": "(Th16) A Silly Fumo themed patch for HSIFS."
+        "Fumo": "(Th16) A Silly Fumo themed patch for HSIFS.",
+        "RatM": "(TH07) Ruby And the Monsters - Gothic Kingdom Legacy"
   }
 }
