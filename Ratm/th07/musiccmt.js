@@ -2,28 +2,28 @@
     "1": [
         "@",
         "This is the title screen theme for this silly mod.",
-	    "It's a bit western...",
-        "I think it weird to use this for a halloween mod But couldn't get something better.",
-        "But eh, It still fits I suppose."
+	    "Sounds a bit too western...",
+        "I think it's weird to use this for a halloween mod But I couldn't get something better.",
+        "But uhhh, It still fits I suppose."
     ],
     "2": [
         "@",
         "This is the Stage 1 theme for this mod.",
         "A non-serious, spooky track.",
         "I wanted to use a Deathsmiles song but it didn't end up convincing me.",
-        "But I think this maplestory track is iconic enough."
+        "Imo This maplestory track is iconic enough."
 
     ],
     "3": [
         "@",
         "This is Corey Elwood's theme for this mod",
-        "I had a hard time to find short stage 1 boss themes so I just went with this track.",
-        "Also, just because I like it a lot."
+        "I had a hard time to find short stage 1 boss theme. ",
+        "So I just went with this track because I like it a lot."
     ],
     "4": [
         "@",
         "This is the Stage 2 theme for this mod.",
-        "I had some time to decide if I wanted this stage theme to be spooky or not.",
+        "Had some time to decide if I wanted this stage theme to be spooky or not.",
         "But at the end I went with this to not make the mod feel too serious.",
     ],
     "5": [
@@ -37,15 +37,15 @@
         "@",
         "This is the Stage 3 theme for this mod.",
         "Last stage was too jazzy. Which is a good thing.",
-		"But I had to remind the player this is a halloween mod.",
-	    "It's peak halloween music."
+		"I had to remind the player this is a halloween mod.",
+	    "Plus, I really wanted to use this track."
     ],
     "7": [
         "@",
         "This is Abbey Vanilla's theme for this mod.",
         "A Tokyo Active's song now.",
 	    "because I love their music.",
-        "I was inspired in Koishi for Abbey, so yeah, you see it a bit.",
+        "I was inspired in Koishi for Abbey, so yeah, you can see it a bit.",
 	    "And if you can't see it......well, Whatever."
     ],
     "8": [
@@ -60,19 +60,19 @@
         "This is Jeff, Emer and Sam's theme for this mod.",
         "Another Tokyo Active Neet's song.",
         "Again, because I like them.",
-        "And you don't get to find spooky jazz so often."
+        "You don't get to find spooky jazz so often."
     ],
     "10": [
         "@",
         "This is the Stage 5 theme for this mod.",
-        "Spooky Ominous for the fifth stage, yeah.",
-        "Is a short theme. It does repeat some times in the stage.",
-        "but it does the job in being spooky and ominous."
+        "It's Spooky and Ominous. It's the fifth stage after all.",
+        "It's a short theme. It does repeat some times in the stage.",
+        "but it does the job done."
     ],
     "11": [
         "@",
         "This is Damelie Starland's theme for this mod.",
-        "I guess is the only \"serious\" track in this mod.",
+        "I guess this is the only \"serious\" track in this mod.",
         "Despite that, The fight dialogue is really not that serious xd",
         "I swear, this is not me trying to do a chilling moment."
     ],
@@ -87,7 +87,7 @@
         "This is Kuri Taronara's theme for this mod.",
 		" ",
         "Spooky boss song let's go yay.",
-        "I realized that should use something fitting for a halloween mod Final Boss.",
+        "I realized that I should use something spooky for a halloween mod Final Boss.",
         "I'm really using this for a vampire trying to steal holidays."
     ],
     "14": [
@@ -117,7 +117,8 @@
     "18": [
         "@",
         "This is Okari Tomorrow's theme for this mod.",
-	    "It's probably too serious to use for a femboy fox who calls himself the grim reaper.",
+		"I Already used Jazz Magus night for Extra's stage boss, But Whatever.",
+	    "It's probably too serious to use it for a femboy fox who calls himself the grim reaper.",
 	    "But hey, It gets again with the halloween vibe."
     ],
     "19": [
