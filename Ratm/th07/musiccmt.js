@@ -123,14 +123,14 @@
     ],
     "19": [
         "@",
-        "This is the ending theme.",
+        "This is the ending theme  this mod.",
         "It's weird to use a bossa nova song for the ending in a halloween mod?",
         "Nah, let's use it anyways.",
     ],
     "20": [
         "@",
-        "This is the credits theme.",
-        "Yes I'm really using an angry birds song for the credits theme.",
-        "The sequel of this mod will have an angry birds theme for it's first theme, just saying."
+        "This is the credits theme for this mod.",
+        "Originally the Angry birds Ham'o'ween theme, but I wanted this better.",
+        "It feels nostalgic and futuristic, I like it."
     ]
 }
